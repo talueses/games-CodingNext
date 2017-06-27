@@ -39,4 +39,4 @@ Para usar la presentación, según las instrucciones de [Reveal.js](http://lab.h
 
 MIT licensed
 
-Copyright (C) 2017 Hakim El Hattab, http://hakim.se
+Copyright (C) 2017, Unknown Kadaba. https://github.com/talueses
